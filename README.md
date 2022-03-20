@@ -1,14 +1,9 @@
-# Hello, I'm Mit 👋
+# Hello, I'm Dharmik 👋
 
 ### Welcome to my profile! 
-I'm a student at McMaster University. Currently working on projects, and learning more about front-end and back-end development. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/mit7/)
+I'm a Software Developer specialized in Mobile app Development. I posses 3 yrs of experience developing Apps in Native(Android, iOS) as well as Cross Platform Frameworks like Flutter. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/mit7/)
 
-#### More About Me
-- 📚 Second year **Computer Engineering** student at McMaster University
-- ⚙️ Currently learning more about **APIs** 
-- 🏗️ Looking to collaborate on more **Open Source** projects
-
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white&color=darkblue">
@@ -31,9 +26,10 @@ I'm a student at McMaster University. Currently working on projects, and learnin
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
 </a>
-
+ -->
 
 <!--
+
 ## 📊 My GitHub Stats
 ###
 ![Mit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitp7&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
