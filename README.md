@@ -1,7 +1,7 @@
 # Hello, I'm Dharmik 👋
 
 ### Welcome to my profile! 
-I'm a Software Developer specialized in Mobile app Development. I posses 3 yrs of experience developing Apps in Native(Android, iOS) as well as Cross Platform Frameworks like Flutter. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/mit7/)
+I'm a Software Developer specialized in Mobile app Development. I posses 3 yrs of experience developing Apps in Native(Android, iOS) as well as Cross Platform Frameworks like Flutter. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/dharmik-thakkar-06b79b131/)
 
 <!-- ## 🔧 Technologies & Tools
 
